@@ -1,0 +1,2 @@
+Build path: F:/UnityProjects/LinePaint release
+Build number: 8
